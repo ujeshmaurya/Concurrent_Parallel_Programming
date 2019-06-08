@@ -1,5 +1,5 @@
 # Concurrent_Parallel_Programming
-Important assignments and their solutions for the course: Concurrent and Parallel programming (B.Tech, CSE, MNIT)
+Important assignments and their solutions for the course: Concurrent and Parallel programming (B.Tech, CSE, MNIT (2015-2019))
 
 Week - 2:
 Q.2 Write a program for matrix multiplication using pthread_join(). No mutex should be used.
