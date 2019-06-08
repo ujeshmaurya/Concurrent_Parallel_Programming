@@ -1,0 +1,8 @@
+Q.2 Write a program for matrix multiplication using pthread_join(). No mutex should be used.
+
+Q.3 Write a C program in which a filename is passed as a command line argument. In case a wrong name or no file name is passed is passed using CLA it should print an error message using perror().
+
+Q.4 Write a C program that continuously print(with a sleep time of 1 second) the process id and the total sleep time. This program should send a SIGINT signal using signal() call, when a particular key is pressed.
+
+Q.5 Write a program using pthread to find out the sum of following series:
+1+4+9+16+.......+ n. Here main function should write the final output on screen. Main thread will create the child threads and child threads will find out the sum of series.
